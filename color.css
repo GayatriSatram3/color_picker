@@ -1,0 +1,77 @@
+.bg-container{
+    background-color:rgb(185, 214, 239);
+    height:100vh;
+}
+
+.heading{
+    color:black;
+    font-size:40px;
+    font-family:"Roboto";
+    font-weight:bold;
+    padding:10px;
+    text-align:center;
+}
+
+.flex-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxes {
+    width: 10vw;
+    height:12vh;
+    border-color:black;
+    border-width:4px;
+    border-radius:10px;
+    color:black;
+    margin:10px;
+}
+
+.box1{
+    background-color:#e0e0e0;
+}
+
+.box2{
+    background-color:#6fcf97;
+}
+
+.box3{
+    background-color:#56ccf2;
+}
+
+.box4{
+    background-color:#bb6bd9;
+}
+
+.center-align{
+    text-align: center;
+}
+
+.bg{
+    width:25vw;
+    height:5vh;
+    background-color: black;
+    color:white;
+    border-radius:10px;
+    border-width:0px;
+    border-color:black;
+    font-size:25px;
+    font-family:"Roboto";
+    font-weight:bold;
+    padding:20px
+}
+
+.span-tag{
+    color:blue;
+    font-size:23px;
+    font-family:"Roboto";
+    font-weight:bold;
+}
+
+.para{
+    font-size:20px;
+    font-family:"Roboto";
+    text-align: center;
+}
